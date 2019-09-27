@@ -33,6 +33,17 @@ In Lync, this means your cam and mic are turned off.
 
 Click the left one to unmute! Click the right one to turn on your cam! You can also use the "Win+F4" global hotkey to unmute Lync.
 
+<a name="Microsoft Teams"></a>
+
+### Using Microsoft Teams?
+Microsoft Teams is the new replacement for Skype for Business 
+<font style="font-style: italic;">(think Lync -> Skype for Business -> Teams)</font>
+When you join a meeting in Teams, you first select whether you want to be initially muted or not:
+![image](images/msteams-join.png "Microsoft Teams Initial Join")
+Once you're in the meeting, you can mute and unmute using the microphone icon:
+![image](images/msteams.png "Microsoft Teams In Meeting")
+See that microphone icon? That's an unmuted microphone. Click to mute it.
+
 <a name="Hangouts"></a>
 
 ### Using Google Hangouts?
